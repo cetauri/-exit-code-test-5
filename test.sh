@@ -6,8 +6,8 @@ echo "start"
 if [ $? -eq 0 ]
 then
   echo "The script ran ok"
-  exit 0
+#   exit 0
 else
   echo "The script failed" >&2
-  exit 1
+#   exit 1
 fi

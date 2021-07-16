@@ -1,5 +1,6 @@
 echo "start"
 
+1/1
 
 
 if [ $? -eq 0 ]
